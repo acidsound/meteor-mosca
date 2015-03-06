@@ -1,0 +1,1 @@
+mosca = Npm.require("mosca");
