@@ -1,7 +1,7 @@
 Package.describe({
   name: 'spectrum:mosca',
   version: '0.0.1',
-  summary: 'Mosca MQTT brocker for Meteor',
+  summary: 'Mosca MQTT broker for Meteor',
   git: 'https://github.com/acidsound/meteor-mosca',
   documentation: 'README.md'
 });
